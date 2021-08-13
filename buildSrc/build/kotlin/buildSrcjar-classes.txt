@@ -1,0 +1,1 @@
+C:\development\Projects\CapitalOne-SE-Summit-Android-Workshop-main\Completed\buildSrc\build\classes\kotlin\main\dependencies\Dependencies.class
